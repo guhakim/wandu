@@ -14,7 +14,7 @@
 | `wandu/api/chat.js` | AI 서버 함수 (OpenRouter 무료 모델, 로그인한 사용자만) |
 | `wandu/vercel.json` | 함수 실행 시간, 보안 헤더(CSP) |
 | `WANDU.html` | claude.ai 아티팩트용 버전 (로그인 없이 브라우저에만 저장) |
-| `WANDU_프로젝트/` | 초기 버전·프로토타입 보관 |
+| `읽기친구완두.html` | 모바일 채팅형 초기 버전 (보관용) |
 
 ## 쓰는 서비스
 
